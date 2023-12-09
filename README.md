@@ -1,4 +1,4 @@
-# Hamdaan-Portfolio
+# Devyansh-Portfolio
 
 <img width="1440" alt="1" src="https://github.com/githamdaan25/Hamdaan-Portfolio/assets/85315584/fb5e8a40-2d5c-43fb-93a0-6b348ad5ad52">
 
